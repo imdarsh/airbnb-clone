@@ -1,0 +1,26 @@
+.banner_info{
+    background-color: black;
+    color: white;
+    width:300px;
+    padding-top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+}
+
+.banner_info > button{
+    background-color: #ff7779;
+    color:white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.banner_info > h5 {
+    margin-top: 10px;
+}
+
+.banner_info > button:hover{
+    background-color: white;
+    color: #ff7779;
+}
