@@ -1,3 +1,21 @@
+.banner{
+    background: url('https://img.wallpapersafari.com/desktop/1920/1080/57/7/Ui2NtR.jpg');
+    height: 50vh;
+    position: relative;
+}
+
+.banner_search{
+    display: flex;
+    flex-direction: column;
+}
+
+.banner_searchButton {
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+}
+
 .banner_info{
     background-color: black;
     color: white;
